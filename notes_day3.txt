@@ -6,3 +6,6 @@ Commands
 5. git status--> to check the status of files
 6. git add . --> all the changes will be committed
 7. git commit -m "this is my first commit" --> it will commit with the message
+8. git branch --> for checking the branch exist(by default in git, it should be main)
+9. git branch -M main -->renaming the branch to main
+10. 
