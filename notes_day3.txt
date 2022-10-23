@@ -9,3 +9,8 @@ Commands
 8. git branch --> for checking the branch exist(by default in git, it should be main)
 9. git branch -M main -->renaming the branch to main
 10. git push -u origin main -->
+11. Steps for updating and re-commiting-
+    1. git add .
+    2. git status
+    3. git commit -m "message"
+    4. git push origin main
