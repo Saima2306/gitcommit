@@ -1,0 +1,8 @@
+Commands
+1. git init-->for creating new repositories
+2. git config --global user.name "Saima Imtiyaz" -->for setting the username only for the first time
+3. git config --global user.email "saima230696@gmail.com" -->for using the mail id registered with git hub account
+4. git add filename (e.g. git add README.md)--> to track the files
+5. git status--> to check the status of files
+6. git add . --> all the changes will be committed
+7. git commit -m "this is my first commit" --> it will commit with the message
