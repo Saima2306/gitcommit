@@ -16,3 +16,4 @@ Commands
     4. git push origin main
 12. git branch developer1 --> to create the new branch named as developer1
 13. git checkout branch --> to select the developer1 branch from main
+14. git merge developer1 --> to merge the dveloper1 branch into main
