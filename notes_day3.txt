@@ -18,3 +18,4 @@ Commands
 13. git checkout branch --> to select the developer1 branch from main
 14. git merge developer1 --> to merge the dveloper1 branch into main
 15. git branch -d  developer1 --> to delete any branch
+16. if we have to show different branch- git push origin developer1
